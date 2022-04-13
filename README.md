@@ -1,4 +1,4 @@
-# Everything Open Source
+# Twitter Spaces
 
 Everything Open Source is an initiative to help more people learn about open source and encourage them to start or keep contributing.
 I'll share valuable resources for studying, practicing and contributing to projects.
