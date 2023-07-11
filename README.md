@@ -10,6 +10,5 @@ Here's one of my favourite open source quote:
 
 
 * [Starting an Open Source software project](https://mesrenyamedogbe.hashnode.dev/introducing-everything-open-source-by-mesrenyame)
-
-* Open Source:Web Development Edition 1
+* Open Source: Web Development Edition 1
 
