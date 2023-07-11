@@ -8,6 +8,8 @@ Here's one of my favourite open source quote:
 > In open source, we feel strongly that, to really do something well, you have to get a lot of people involved.
 ~Linus Torvalds
 
-## Table of Contents
-* [Introducing Everything Open Source](https://mesrenyamedogbe.hashnode.dev/introducing-everything-open-source-by-mesrenyame)
+
+* [Starting an Open Source software project](https://mesrenyamedogbe.hashnode.dev/introducing-everything-open-source-by-mesrenyame)
+
+* Open Source:Web Development Edition 1
 
