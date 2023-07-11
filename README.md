@@ -9,6 +9,10 @@ Here's one of my favourite open source quote:
 ~Linus Torvalds
 
 ## Quarter 1
+
+![Q1](https://github.com/Everything-Open-Source/twitter-spaces/assets/29455771/ba8123c3-4bd9-4fe0-88e9-acfac594f406)
+
+## Topics
 * [Starting an Open Source software project](https://mesrenyamedogbe.hashnode.dev/introducing-everything-open-source-by-mesrenyame)
 * Starting an Open Source Software Project
 * Open Source: Web Development Edition 1
@@ -26,4 +30,9 @@ Here's one of my favourite open source quote:
 
 
 ## Quarter 2
+
+![Q2](https://github.com/Everything-Open-Source/twitter-spaces/assets/29455771/3ddea60c-47ad-4c24-8d32-1d9f4347630b)
+
+## Topics
+
 
