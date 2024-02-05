@@ -13,7 +13,7 @@ Here's one of my favourite open source quote:
 ![Q1](https://github.com/Everything-Open-Source/twitter-spaces/assets/29455771/ba8123c3-4bd9-4fe0-88e9-acfac594f406)
 
 ## Topics
-* Starting an Open Source software project
+* Getting started with Open Source
 * Starting an Open Source Software Project
 * Open Source: Web Development Edition 1
 * Communicating Effectively as an Open Source contributor
